@@ -1,0 +1,94 @@
+[
+   {
+     "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+     "others_info": {
+       "is_todays_pick": false,
+       "is_trending": true
+     },
+     "category_id": "01",
+     "rating": { "number": 4.5, "badge": "Excellent" },
+     "total_price": 80,
+     "duration": 6,
+     "title": "Web Development",
+     "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+     "image_url": "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=900&t=st=1666638287~exp=1666638887~hmac=96c29c1bfda409cf437fe878e11d4a3fc0cbc119ab7a38db1690d0368d7cb972",
+     "details": "Do you realize that the only functionality of a web application that the user directly interacts with is through the web page? Implement it poorly and, to the user, the server-side becomes irrelevant! Today’s user expects a lot out of the web page: it has to load fast, expose the desired service, and be comfortable to view on all devices: from a desktop computers to tablets and mobile phones."
+   },
+   {
+     "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+     "others_info": {
+       "is_todays_pick": false,
+       "is_trending": true
+     },
+     "category_id": "02",
+     "rating": { "number": 4.5, "badge": "Excellent" },
+     "total_price": 75,
+     "duration": 6,
+     "title": "Python",
+     "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+     "image_url": "https://img.freepik.com/premium-photo/python-programming-language-server-room-background-programing-workflow-abstract-algorithm-concept-virtual-screen_161452-3814.jpg?w=900",
+     "details": "Best Python, Django, and Flask online courses from Udemy, Pluralsight, Coursera, and FreeCodecamp to learn Python for Web development.Hello guys, Web development is one of the most important skills for software engineers in today’s highly connected digital world. If you look around most of the billion-dollar businesses like Google, Amazon, Facebook are all web applications and they are the most successful companies around"
+   },
+
+   {
+     "_id": "f69a695f037cd9484cecaea37ca71011",
+     "others_info": {
+       "is_todays_pick": false,
+       "is_trending": true
+     },
+     "category_id": "03",
+     "rating": { "number": 4.8, "badge": "Excellent" },
+     "total_price": 50,
+     "duration": 3,
+     "title": "CPA Marketing",
+     "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+     "image_url": "https://img.freepik.com/premium-photo/cpa-with-graphs-reports-paper_102583-4492.jpg?w=900",
+     "details": "Learn the latest CPA Marketing techniques with a clear guide that clearly shows everything I do."
+   },
+   {
+     "_id": "f69a695f037cd9484cecaea37ca71012",
+     "others_info": {
+       "is_todays_pick": false,
+       "is_trending": true
+     },
+     "category_id": "04",
+     "rating": { "number": 4.3, "badge": "Excellent" },
+     "total_price": 45,
+     "duration": 2,
+     "title": "SEO",
+     "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+     "image_url": "https://img.freepik.com/premium-photo/search-engine-optimization-online-marketing-concept_31965-10840.jpg?w=1060",
+     "details": "SEO marketing is a subset of digital marketing that involves the optimization of websites and web pages for major search engines like Google. As these search engines became a predominant way of finding just about anything, various practices have emerged to help organizations improve the visibility of their digital assets."
+   },
+
+   {
+     "_id": "11468ed61aee84de492a8b04158a22f9",
+     "others_info": {
+       "is_todays_pick": false,
+       "is_trending": false
+     },
+     "category_id": "05",
+     "rating": { "number": 4.5, "badge": "Excellent" },
+     "total_price": 60,
+     "duration": 1.5,
+     "title": "Digital Marketing",
+     "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+     "image_url": "https://img.freepik.com/premium-vector/digital-marketing-social-media-concept_112255-1314.jpg?w=826",
+     "details": "Any marketing that uses electronic devices and can be used by marketing specialists to convey promotional messaging and measure its impact through your customer journey. In practice, digital marketing typically refers to marketing campaigns that appear on a computer, phone, tablet, or other device. It can take many forms, including online video, display ads, search engine marketing, paid social ads and social media posts. Digital marketing is often compared to “traditional marketing” such as magazine ads, billboards, and direct mail. Oddly, television is usually lumped in with traditional marketing."
+   },
+   {
+     "_id": "11468ed61aee84de492a8b04158a22f0",
+     "others_info": {
+       "is_todays_pick": false,
+       "is_trending": true
+     },
+     "category_id": "06",
+     "rating": { "number": 4.5, "badge": "Excellent" },
+     "total_price": 980,
+     "duration": 5,
+     "title": "MERN",
+     "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+     "image_url": "https://img.freepik.com/free-vector/hand-drawn-flat-design-sql-illustration_23-2149262964.jpg?w=900&t=st=1666639839~exp=1666640439~hmac=9546086b55ef9083dae313b904aa738ba70d41bb02b0508b345650354afa6676",
+     "details": "MERN is one of several variations of the MEAN stack (MongoDB Express Angular Node), where the traditional Angular.js front-end framework is replaced with React.js. Other variants include MEVN (MongoDB, Express, Vue, Node), and really any front-end JavaScript framework can work."
+   }
+ ]
