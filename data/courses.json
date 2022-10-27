@@ -23,7 +23,7 @@
      "category_id": "02",
      "rating": { "number": 4.5, "badge": "Excellent" },
      "total_price": 75,
-     "duration": 6,
+     "duration": 5,
      "title": "Python",
      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
      "image_url": "https://img.freepik.com/premium-photo/python-programming-language-server-room-background-programing-workflow-abstract-algorithm-concept-virtual-screen_161452-3814.jpg?w=900",
@@ -55,7 +55,7 @@
      "rating": { "number": 4.3, "badge": "Excellent" },
      "total_price": 45,
      "duration": 2,
-     "title": "SEO",
+     "title": "Search Engine Optimization (SEO)",
      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
      "image_url": "https://img.freepik.com/premium-photo/search-engine-optimization-online-marketing-concept_31965-10840.jpg?w=1060",
      "details": "SEO marketing is a subset of digital marketing that involves the optimization of websites and web pages for major search engines like Google. As these search engines became a predominant way of finding just about anything, various practices have emerged to help organizations improve the visibility of their digital assets."
@@ -86,7 +86,7 @@
      "rating": { "number": 4.5, "badge": "Excellent" },
      "total_price": 80,
      "duration": 5,
-     "title": "MERN",
+     "title": "MERN For Web Backend",
      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
      "image_url": "https://img.freepik.com/free-vector/hand-drawn-flat-design-sql-illustration_23-2149262964.jpg?w=900&t=st=1666639839~exp=1666640439~hmac=9546086b55ef9083dae313b904aa738ba70d41bb02b0508b345650354afa6676",
      "details": "MERN is one of several variations of the MEAN stack (MongoDB Express Angular Node), where the traditional Angular.js front-end framework is replaced with React.js. Other variants include MEVN (MongoDB, Express, Vue, Node), and really any front-end JavaScript framework can work."
